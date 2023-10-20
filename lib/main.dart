@@ -12,8 +12,8 @@ void main() {
             children: [
               Center(
                 child: SizedBox(
-                  width: 200, // Ширина кнопки
-                  height: 50, // Высота кнопки
+                  width: 200,
+                  height: 50,
                   child: ElevatedButton(
                     onPressed: () {
                       print('Redirect to Main page');
@@ -27,8 +27,8 @@ void main() {
               ),
               Center(
                 child: SizedBox(
-                  width: 200, // Ширина кнопки
-                  height: 50, // Высота кнопки
+                  width: 200,
+                  height: 50,
                   child: ElevatedButton(
                     onPressed: () {
                       print('Redirect to Portfolio page');
@@ -42,8 +42,8 @@ void main() {
               ),
               Center(
                 child: SizedBox(
-                  width: 200, // Ширина кнопки
-                  height: 50, // Высота кнопки
+                  width: 200,
+                  height: 50,
                   child: ElevatedButton(
                     onPressed: () {
                       print('Redirect to Order page');
@@ -57,8 +57,8 @@ void main() {
               ),
               Center(
                 child: SizedBox(
-                  width: 200, // Ширина кнопки
-                  height: 50, // Высота кнопки
+                  width: 200,
+                  height: 50,
                   child: ElevatedButton(
                     onPressed: () {
                       print('Redirect to Legal info page');
@@ -72,8 +72,8 @@ void main() {
               ),
               Center(
                 child: SizedBox(
-                  width: 200, // Ширина кнопки
-                  height: 50, // Высота кнопки
+                  width: 200,
+                  height: 50,
                   child: ElevatedButton(
                     onPressed: () {
                       print('Redirect to Login page');
